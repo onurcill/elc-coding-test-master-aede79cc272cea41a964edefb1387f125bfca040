@@ -1,0 +1,198 @@
+:::: Log File ::::
+
+
+[14/12/2020 -- 17:52]  Info task started
+[14/12/2020 -- 17:53]  Info task started
+[14/12/2020 -- 17:54]  Info task started
+[14/12/2020 -- 17:55]  restarted!
+[14/12/2020 -- 17:55]  Info task started
+[14/12/2020 -- 17:56]  restarted!
+[14/12/2020 -- 17:56]  Info task started
+[15/12/2020 -- 12:4]  Info task started
+[15/12/2020 -- 12:8]  Info task started
+[15/12/2020 -- 12:10]  restarted!
+[15/12/2020 -- 12:10]  restarted!
+[15/12/2020 -- 12:10]  restarted!
+[15/12/2020 -- 12:10]  restarted!
+[15/12/2020 -- 12:10]  Info task started
+[15/12/2020 -- 12:13]  Scripts ran on main.js
+[15/12/2020 -- 12:13]  Scripts ran on main.js
+[15/12/2020 -- 12:13]  Info task started
+[15/12/2020 -- 12:15]  restarted!
+[15/12/2020 -- 12:15]  restarted!
+[15/12/2020 -- 12:16]  Scripts ran on main.js
+[15/12/2020 -- 12:16]  Scripts ran on main.js
+[15/12/2020 -- 12:17]  Scripts ran on main.js
+[15/12/2020 -- 12:17]  restarted!
+[15/12/2020 -- 12:18]  Info task started
+[15/12/2020 -- 12:36]  Info task started
+[15/12/2020 -- 12:37]  Info task started
+[15/12/2020 -- 12:38]  Info task started
+[15/12/2020 -- 12:39]  restarted!
+[15/12/2020 -- 12:39]  restarted!
+[15/12/2020 -- 12:40]  Info task started
+[15/12/2020 -- 12:41]  restarted!
+[15/12/2020 -- 12:41]  restarted!
+[15/12/2020 -- 12:41]  Info task started
+[15/12/2020 -- 12:42]  restarted!
+[15/12/2020 -- 12:42]  restarted!
+[15/12/2020 -- 12:42]  restarted!
+[15/12/2020 -- 12:42]  Info task started
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  Info task started
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  restarted!
+[15/12/2020 -- 12:43]  Info task started
+[15/12/2020 -- 12:45]  restarted!
+[15/12/2020 -- 12:45]  restarted!
+[15/12/2020 -- 12:45]  restarted!
+[15/12/2020 -- 12:45]  Info task started
+[15/12/2020 -- 12:47]  restarted!
+[15/12/2020 -- 12:47]  restarted!
+[15/12/2020 -- 12:47]  Info task started
+[15/12/2020 -- 12:48]  Info task started
+[15/12/2020 -- 12:49]  restarted!
+[15/12/2020 -- 12:49]  restarted!
+[15/12/2020 -- 12:49]  restarted!
+[15/12/2020 -- 12:49]  restarted!
+[15/12/2020 -- 12:49]  Info task started
+[15/12/2020 -- 12:49]  Info task started
+[15/12/2020 -- 12:52]  restarted!
+[15/12/2020 -- 12:52]  restarted!
+[15/12/2020 -- 12:52]  Info task started
+[15/12/2020 -- 12:53]  Info task started
+[15/12/2020 -- 12:56]  restarted!
+[15/12/2020 -- 12:57]  Info task started
+[15/12/2020 -- 13:1]  restarted!
+[15/12/2020 -- 13:1]  restarted!
+[15/12/2020 -- 13:1]  Info task started
+[15/12/2020 -- 13:2]  restarted!
+[15/12/2020 -- 13:2]  restarted!
+[15/12/2020 -- 13:2]  restarted!
+[15/12/2020 -- 13:2]  restarted!
+[15/12/2020 -- 13:3]  Info task started
+[15/12/2020 -- 13:3]  restarted!
+[15/12/2020 -- 13:3]  Info task started
+[15/12/2020 -- 13:4]  restarted!
+[15/12/2020 -- 13:4]  restarted!
+[15/12/2020 -- 13:4]  Info task started
+[15/12/2020 -- 13:5]  restarted!
+[15/12/2020 -- 13:5]  restarted!
+[15/12/2020 -- 13:6]  Info task started
+[15/12/2020 -- 13:7]  restarted!
+[15/12/2020 -- 13:7]  restarted!
+[15/12/2020 -- 13:8]  restarted!
+[15/12/2020 -- 13:11]  Info task started
+[15/12/2020 -- 13:13]  Info task started
+[15/12/2020 -- 13:16]  Info task started
+[15/12/2020 -- 13:19]  Info task started
+[15/12/2020 -- 13:22]  Info task started
+[15/12/2020 -- 13:23]  Info task started
+[15/12/2020 -- 13:25]  Info task started
+[15/12/2020 -- 15:44]  restarted!
+[15/12/2020 -- 15:45]  Info task started
+[15/12/2020 -- 15:45]  restarted!
+[15/12/2020 -- 15:45]  restarted!
+[15/12/2020 -- 15:45]  Info task started
+[15/12/2020 -- 15:46]  restarted!
+[15/12/2020 -- 15:46]  restarted!
+[15/12/2020 -- 15:46]  restarted!
+[15/12/2020 -- 15:46]  restarted!
+[15/12/2020 -- 15:47]  Info task started
+[15/12/2020 -- 15:47]  Info task started
+[15/12/2020 -- 15:48]  Info task started
+[15/12/2020 -- 15:55]  Info task started
+[15/12/2020 -- 15:59]  Info task started
+[15/12/2020 -- 16:47]  Info task started
+[15/12/2020 -- 16:48]  Info task started
+[15/12/2020 -- 16:49]  Info task started
+[15/12/2020 -- 16:49]  Info task started
+[15/12/2020 -- 16:50]  Info task started
+[15/12/2020 -- 16:51]  Info task started
+[15/12/2020 -- 17:3]  Info task started
+[15/12/2020 -- 17:4]  Info task started
+[15/12/2020 -- 17:5]  Info task started
+[15/12/2020 -- 17:7]  Info task started
+[15/12/2020 -- 17:8]  Info task started
+[15/12/2020 -- 17:29]  Info task started
+[15/12/2020 -- 17:30]  Info task started
+[15/12/2020 -- 17:31]  Info task started
+[15/12/2020 -- 17:33]  Info task started
+[15/12/2020 -- 17:34]  Info task started
+[15/12/2020 -- 17:36]  Info task started
+[15/12/2020 -- 17:38]  Info task started
+[15/12/2020 -- 17:42]  Info task started
+[15/12/2020 -- 17:48]  Info task started
+[15/12/2020 -- 17:49]  Scripts ran on main.js
+[15/12/2020 -- 17:50]  Scripts ran on main.js
+[15/12/2020 -- 17:50]  Scripts ran on main.js
+[15/12/2020 -- 17:53]  Info task started
+[15/12/2020 -- 17:54]  Scripts ran on main.js
+[15/12/2020 -- 17:54]  Info task started
+[15/12/2020 -- 17:55]  Scripts ran on main.js
+[15/12/2020 -- 17:56]  Scripts ran on main.js
+[15/12/2020 -- 17:56]  Scripts ran on main.js
+[15/12/2020 -- 17:56]  Scripts ran on main.js
+[15/12/2020 -- 17:56]  Scripts ran on main.js
+[15/12/2020 -- 17:57]  Scripts ran on main.js
+[15/12/2020 -- 17:57]  Info task started
+[15/12/2020 -- 17:58]  Scripts ran on main.js
+[15/12/2020 -- 17:59]  Scripts ran on main.js
+[15/12/2020 -- 17:59]  Scripts ran on main.js
+[15/12/2020 -- 18:0]  restarted!
+[15/12/2020 -- 18:9]  restarted!
+[15/12/2020 -- 18:9]  Info task started
+[15/12/2020 -- 18:9]  restarted!
+[15/12/2020 -- 18:9]  restarted!
+[15/12/2020 -- 18:9]  restarted!
+[15/12/2020 -- 18:10]  Info task started
+[15/12/2020 -- 18:13]  restarted!
+[15/12/2020 -- 18:13]  restarted!
+[15/12/2020 -- 18:13]  Info task started
+[15/12/2020 -- 18:15]  restarted!
+[15/12/2020 -- 18:15]  restarted!
+[15/12/2020 -- 18:15]  restarted!
+[15/12/2020 -- 18:15]  restarted!
+[15/12/2020 -- 18:15]  Info task started
+[15/12/2020 -- 18:16]  restarted!
+[15/12/2020 -- 18:16]  restarted!
+[15/12/2020 -- 18:16]  restarted!
+[15/12/2020 -- 18:16]  Info task started
+[15/12/2020 -- 18:18]  restarted!
+[15/12/2020 -- 18:18]  restarted!
+[15/12/2020 -- 18:18]  restarted!
+[15/12/2020 -- 18:18]  restarted!
+[15/12/2020 -- 18:18]  restarted!
+[15/12/2020 -- 18:18]  Info task started
+[15/12/2020 -- 18:19]  Info task started
+[15/12/2020 -- 18:20]  Info task started
+[15/12/2020 -- 18:21]  Info task started
+[15/12/2020 -- 18:24]  Scripts ran on main.js
+[15/12/2020 -- 18:25]  Info task started
+[15/12/2020 -- 18:25]  Scripts ran on main.js
+[15/12/2020 -- 18:26]  Info task started
+[15/12/2020 -- 18:27]  Scripts ran on main.js
+[15/12/2020 -- 18:28]  Info task started
+[15/12/2020 -- 19:20]  Scripts ran on main.js
+[15/12/2020 -- 19:20]  Info task started
+[15/12/2020 -- 19:20]  Scripts ran on main.js
+[15/12/2020 -- 19:21]  Scripts ran on main.js
+[15/12/2020 -- 19:21]  Info task started
+[15/12/2020 -- 19:22]  restarted!
+[15/12/2020 -- 19:40]  Scripts ran on main.js
+[15/12/2020 -- 19:40]  Info task started
+[15/12/2020 -- 19:44]  Scripts ran on main.js
+[15/12/2020 -- 19:44]  Scripts ran on main.js
+[15/12/2020 -- 19:45]  Scripts ran on main.js
+[15/12/2020 -- 19:45]  Scripts ran on main.js
+[15/12/2020 -- 19:45]  Scripts ran on main.js
+[15/12/2020 -- 19:49]  Scripts ran on main.js
+[15/12/2020 -- 19:49]  Scripts ran on main.js
+[15/12/2020 -- 19:50]  Scripts ran on main.js
+[15/12/2020 -- 19:50]  Scripts ran on main.js
+[15/12/2020 -- 19:52]  Scripts ran on main.js
